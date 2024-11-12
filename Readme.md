@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/kdkundan/native-capstone-app.git
-cd restaurant-app
+cd native-capstone-app
 ```
 
 2. Install dependencies
